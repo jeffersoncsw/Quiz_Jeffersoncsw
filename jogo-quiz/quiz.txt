@@ -1,0 +1,2 @@
+TI;Qual das alternativas é um sistema operacional?;PHP;false;Java;false;Linux;true;Html;false;Word;false;
+TI;Qual das alternativas é uma linguagem de programacao?;Java;true;Linux;false;Teclado;false;Windows;false;Monitor;false;
